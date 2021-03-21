@@ -31,5 +31,6 @@ public class Main {
         animalShelter[0].run(501);
         new Dog("Rex", 6).swim(10);
         new Cat("Sfeexy", 4).run(200);
+
     }
 }
